@@ -16,7 +16,7 @@ public class UserServiceController {
 		User user = new User();
 		user.setId(1);
 		user.setName("sudhir");
-		user.setAddress("Ghaziabad");
+		user.setAddress("Ghaziabad-UP");
 		return user;
 		
 	}
