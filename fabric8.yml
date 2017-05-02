@@ -1,8 +1,8 @@
 ---
-buildName: "sudhir-first-app"
+buildName: "firstapp-sudhir"
 links:
   Git: "https://github.com/laxmisudhir/FirstApp.git"
-  Job: "http://jenkins.testfabric8.test.example.com/job/sudhir-first-app"
+  Job: "http://jenkins.testfabric8.test.example.com/job/firstapp-sudhir"
   Production: "http://172.30.173.123:80/kubernetes/pods?namespace=testfabric8-prod"
   Staging: "http://172.30.173.123:80/kubernetes/pods?namespace=testfabric8-staging"
   Testing: "http://172.30.173.123:80/kubernetes/pods?namespace=testfabric8-testing"
